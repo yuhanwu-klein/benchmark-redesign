@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: case-study-contradictions
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A revised case-study.html that matches PRD v3 and the research notes: no AI coach, iOS rather than Android, grace days instead of reset-on-miss, no unsupported 50-user or 40% retention claim, an accurate competitor comparison, and no claim that Loop launched. The onboarding-flow 'decision tree' is replaced by something tied to the product's decisions, such as how Loop handles a done, missed or twice-missed day. A list of the contradictions found and how each was fixed accompanies the page.

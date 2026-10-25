@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: photo-standard-official-site
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A numbered photo standard derived from how Lomography's own site and community present photos, each rule traceable to a source. An audit of all 12 listed photos with pass, close or fail and the rules each one breaks. A sourcing plan for real replacement photos with licenses and credits, without downloading anything and without proposing AI generation as the first choice.

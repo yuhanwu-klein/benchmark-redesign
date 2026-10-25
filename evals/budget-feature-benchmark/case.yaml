@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: budget-feature-benchmark
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A short research report with at least 6 real budgeting or banking apps, each with a source link, the patterns they share, and what Penny adopts, adapts or rejects and why. The Budgets section of prd.md is rewritten to follow from that research while respecting Penny's existing design rules (no red for spending, at most one notification a day, no streaks), and the decision log gains entries for the change.
